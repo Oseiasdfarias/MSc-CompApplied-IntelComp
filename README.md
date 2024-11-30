@@ -1,5 +1,10 @@
 # Master's in Applied Computing: Focus on Computational Intelligence
 
+
+
+## ***The research line of the thesis: Applying Artificial Intelligence as a method for mineral exploration.***
+
+
 ### Referências Bibliográficas  
 
 1. Cook, A. T. (2019). *Machine learning and artificial intelligence applications in geophysics*. University of British Columbia. Disponível em: [https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0340340](https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0340340)  
