@@ -48,3 +48,9 @@
 20. **Arxiv. (2021).** *A Review of Machine Learning in Processing Remote Sensing Data for Mineral Exploration*. Disponível em: [https://arxiv.org/abs/2103.07678](https://arxiv.org/abs/2103.07678)
 
 21. **Arxiv. (2023).** *GFM4MPM: Towards Geospatial Foundation Models for Mineral Prospectivity Mapping*. Disponível em: [https://arxiv.org/abs/2406.12756](https://arxiv.org/abs/2406.12756)
+
+
+
+### Referências Bibliográficas Mais Relevantes
+
+1. **Zhou, W., et al. (2019).** *Applications of deep learning in remote sensing: A review*. ScienceDirect. Disponível em: [https://www.sciencedirect.com/science/article/abs/pii/S0169136819301490](https://www.sciencedirect.com/science/article/abs/pii/S0169136819301490)  
